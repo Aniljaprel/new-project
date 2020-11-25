@@ -1,0 +1,20 @@
+h1{
+    background-color: blue;
+    color: cornsilk;
+    padding: 20px;
+    text-align: center;
+}
+
+h2{
+    background-color: crimson;
+    color: white;
+    padding:15px;
+    text-align: center;
+}
+table th,td{
+border: 1px solid black;
+}
+body{
+    background-image: url(ss.jpg);
+    
+}
